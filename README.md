@@ -1,7 +1,7 @@
 # SimulatedAnnealing_Jobshop
 
 SimulatedAnnealing_Jobshop is a Simulated Annealing heuristic implementation for JobShop-Solving problem.  
-Complete description of the problem and the algorithm: 
+Complete description of the problem and the algorithm:  
 https://medium.com/@gilewski.slawomir/using-simulated-annealing-in-job-shop-problem-solving-5d72232a2abe
 
 ## Installation
