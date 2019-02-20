@@ -1,4 +1,0 @@
-Instance: -b ../instances/orlib/abz5.txt; Jobs: 10; Machines: 10; Time: 44.820741; Result: 1330
-Instance: -b ../instances/orlib/abz5.txt; Jobs: 10; Machines: 10; Time: 44.213741; Result: 1267
-Instance: -b ../instances/orlib/abz5.txt; Jobs: 10; Machines: 10; Time: 44.115341; Result: 1259
-Instance: -b ../instances/orlib/abz5.txt; Jobs: 10; Machines: 10; Time: 44.700030; Result: 1249
